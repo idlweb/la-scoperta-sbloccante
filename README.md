@@ -70,49 +70,40 @@ In termini più semplici, la formula dice che la probabilità di raggiungere una
 
 La formula quantistica potrebbe fornire una visione più accurata della natura della probabilità rispetto alla formula classica. Nella formula classica, la probabilità è un numero compreso tra 0 e 1, che rappresenta la possibilità che un evento si verifichi. Nella formula quantistica, la probabilità è rappresentata da un vettore, che può avere più di un componente. Questo perché nella meccanica quantistica, gli eventi non sono deterministici, ma sono soggetti a una certa incertezza.
  
+Ad un certo punto mi sono chiesto come avrei potuto riscrivere la formula se al posto di <a>, di <b>, e di <c>, considerassimo da una parte la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta, dall'altra la sommatoria delle scoperte non direttamente incidenti ma utili e <c> la sommatoria delle scoperte complementari, un complemento residuale, come la materia oscura. L'idea di fondo è ottenere un valore, per ora scalare, che rappresenti l'indice di rallentamento legato all'interazione con un certo grado di "falsificazione" che la conoscenza incontra quando si muove in un determinato campo, un po' come è espresso nella teoria i Higgs ed ai rallentamenti che hanno causato la differenziazione degli atomi. 
+
+La formula sarebbe potuta essere riscritta come segue:
+
+## P = |a * Sd + b * Su + c * Sc|^2
+
+dove:
+
+<p> è la probabilità di raggiungere una scoperta scientifica
+<a>, <b> e <c> sono coefficienti che devono essere determinati empiricamente
+<Sd> è la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta
+<Su> è la sommatoria delle scoperte non direttamente incidenti ma utili
+<Sc> è la sommatoria delle scoperte complementari
+
+La formula quantistica per la probabilità di raggiungere una scoperta scientifica suggerisce che le scoperte direttamente incidenti al raggiungimento della scoperta, le scoperte non direttamente incidenti ma utili e le scoperte complementari non sono solo fattori importanti per aumentare la probabilità di successo, ma possono anche portare a risultati imprevisti e rivoluzionari.
 
 
 
+## Esecuzione dei test e fase di sperimentazione
+Il passaggio successivo è quello di 
 
+### Suddividire i test end-to-end
+### Definire test codificando gli stili
 
-
-## Esecuzione dei test
-
-Spiegare come eseguire i test automatizzati per questo sistema
-
-### Suddividi i test end-to-end
-
-Spiega cosa testano questi test e perché
-
-```
-Dare un esempio
-```
-
-### E test di stile di codifica
-
-Spiega cosa testano questi test e perché
-
-```
-Dare un esempio
-```
 
 ## Distribuzione
 
-Aggiungi ulteriori note su come distribuirlo su un sistema live
+Partecipazione all'Open-Source Science Initiative (OSSI).
 
-## Costruito con
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - Il framework web utilizzato
-* [Maven](https://maven.apache.org/) - Gestione delle dipendenze
-* [ROMA](https://rometools.github.io/rome/) - Utilizzato per generare feed RSS
 
 ## Contribuire
 
-Si prega di leggere [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) per i dettagli sul nostro codice di condotta e il processo per l'invio di richieste pull a noi.
+...
 
-## Versione
-
-Utilizziamo [SemVer](http://semver.org/) per il controllo delle versioni. Per le versioni disponibili, vedere i [tag su questo repository](https://github.com/your/project/tags).
 
 ## Autori
 
