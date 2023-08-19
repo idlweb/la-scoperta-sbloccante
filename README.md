@@ -35,7 +35,7 @@ Pertanto l'intenzione è di superare il limite della rappresentazione "vettorial
 
 La formula avrebbe potuto essere la seguente:
 
-P = a * T^b * C^c
+#P = a * T^b * C^c
 
 dove:
 
