@@ -107,9 +107,8 @@ L'indice di rallentamento può essere utilizzato per confrontare la velocità di
 
 ## Esecuzione dei test e fase di sperimentazione
 Il passaggio successivo è quello di 
-
-### Suddividire i test end-to-end
-### Definire test codificando gli stili
+Suddividire i test end-to-end
+Definire test codificando gli stili
 ...
 
 
