@@ -57,8 +57,8 @@ La partecipazione può aiutare a raccogliere più dati e idee.
 La collaborazione può aiutare a condividere le conoscenze e le risorse.
 In conclusione, la trasparenza, la partecipazione e la collaborazione sono fattori importanti per aumentare la probabilità di raggiungere una scoperta scientifica. Le piattaforme di sviluppo condiviso come GitHub possono aiutare a promuovere questi fattori, facilitando la condivisione dei dati, dei metodi e dei risultati scientifici.
 
-Mi sono chiesto se fosse possibile esprimere la formula in una forma quantica ed essa in maniera semplice, forse errata, potrebbe essere questa:
-È possibile esprimere la formula per la probabilità di raggiungere una scoperta scientifica in forma quantistica. La formula potrebbe essere la seguente:
+Mi sono chiesto se fosse possibile esprimere la formula in una forma quantica, ed essa, in maniera semplice, forse errata, potrebbe essere questa:
+
 
 ### P = |a * T^b * C^c|^2
 
