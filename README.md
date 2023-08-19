@@ -62,7 +62,7 @@ Mi sono chiesto se fosse possibile esprimere la formula in una forma quantica, e
 
 ### P = |a * T^b * C^c|^2
 
-Non sono un matematico e pertanto sto inseguendo anche gli studi in materia, mi è sembrato che il modulo venga utilizzato in matematica per rappresentare l'ampiezza o la lunghezza di un vettore. In questo caso, il modulo viene utilizzato per rappresentare il valore assoluto del prodotto interno tra il livello di trasparenza, il livello di partecipazione e il livello di collaborazione. Il valore assoluto è una funzione che prende un numero reale e restituisce il suo valore assoluto, che è la distanza dal numero allo zero. In questo caso, il valore assoluto viene utilizzato per garantire che la probabilità sia sempre un numero compreso tra 0 e 1.
+Non sono un matematico e pertanto sto inseguendo anche gli studi in materia, il modulo è utilizzato per rappresentare l'ampiezza o la lunghezza di un vettore. In questo caso, il modulo viene utilizzato per rappresentare il valore assoluto del prodotto interno tra il livello di trasparenza, il livello di partecipazione e il livello di collaborazione. Il valore assoluto è una funzione che prende un numero reale e restituisce il suo valore assoluto, che è la distanza dal numero allo zero. In questo caso, il valore assoluto viene utilizzato per garantire che la probabilità sia sempre un numero compreso tra 0 e 1.
 
 il prodotto interno, che è un operatore quantistico misurerebbe il grado di sovrapposizione tra due stati quantistici. Il quadrato del modulo rappresenta la probabilità che un evento si verifichi.
 
