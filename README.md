@@ -110,6 +110,8 @@ Il passaggio successivo è quello di
 
 ### Suddividire i test end-to-end
 ### Definire test codificando gli stili
+...
+
 
 
 ## Distribuzione
@@ -117,9 +119,10 @@ Il passaggio successivo è quello di
 Partecipazione all'Open-Source Science Initiative (OSSI).
 
 
-## Contribuire
 
+## Contribuire
 ...
+
 
 
 ## Autori
