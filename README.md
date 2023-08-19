@@ -21,7 +21,7 @@ Un approccio aperto alla complessità :-)
 Il titolo suona ambizioso ma l'intento è invece propiziatorio. 
 
 Gli studi legati alla teoria della complessità mi hanno condotto ad approfondire il paradigma Trasparenza-Collaborazione-Partecipazione come catalizzatore dei processi evolutivi della nostra cara umanità.
-Partendo da studi umanistici mi sono orientato a racconti scientifici, cito il "Il Grandangolo della scienza" - Le grandi opere - del Corriere della Sera.
+Partendo da studi umanistici mi sono orientato a racconti scientifici, cito, ad esempio, il "Il Grandangolo della scienza" - Le grandi opere - del Corriere della Sera.
 
 Tutto principia dagli studi di giurisprudenza e dagli interessi per il Diritto Amministrativo i quali "fisiologicamente" hanno aperto le porte al mondo delle comunità open-data ed open-source. La lettura del "White House Open Government Initiative: Transparency, Participation, and Collaboration", il libro bianco (2010) sulle esperienze governative negli United States "obbligatorio". Dalla lettura all'impegno personale il passo è stato breve, da allora ogni sforzo è teso a persuadere le PPAA (Pubbliche Amministrazioni) sulla necessità, in primo luogo di evocare a se stesse il ruolo strategico dell'ICT ed in seconda istanza di non trascurare/ignorare il movimento mondiale in fermernto ed il lavoro egregio di AGID e conseguentemente perseguire il lavoro programmatico e legislativo che ne sta conseguendo.
 
