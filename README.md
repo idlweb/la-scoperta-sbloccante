@@ -9,7 +9,7 @@
 Credo sia possibile ricavare una formula legata alla probabilità di raggiungere una scoperta scientifica che sia dipendente dalle variabili trasparenza, partecipazione e collaborazione in un campo rappresentato dalle piattaforme di sviluppo condiviso 
 
 
-### Prerequisiti
+### Prerequisiti 
 
 Di cosa hai bisogno per proseguire il percorso?
 Un approccio aperto alla complessità :-)
