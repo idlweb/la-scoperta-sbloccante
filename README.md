@@ -31,11 +31,11 @@ I riferimenti alle logiche OPEN solitamente appaiono più come etici che funzion
 
 Pertanto l'intenzione è di superare il limite della rappresentazione "vettoriale" dell'apporto del paradigma OPEN e spingersi sul valore catalizzatore, similmente a quanto accade per la chimica le cui reazioni e la loro cinetica sono spesso descritte mediante equazioni differenziali ordinarie o parziali, ei catalizzatori sono inclusi in queste equazioni come fattori che modificano la velocità della reazione. I parametri che rappresentano l'effetto di un catalizzatore potrebbero dipendere da varie variabili, come la concentrazione del catalizzatore stesso e le condizioni se pur esterne incidenti a livello quantistico.
 
-##Il primo approccio
+## Il primo approccio
 
 La formula avrebbe potuto essere la seguente:
 
-###P = a * T^b * C^c
+### P = a * T^b * C^c
 
 dove:
 
@@ -60,9 +60,9 @@ In conclusione, la trasparenza, la partecipazione e la collaborazione sono fatto
 Mi sono chiesto se fosse possibile esprimere la formula in una forma quantica ed essa in maniera semplice, forse errata, potrebbe essere questa:
 È possibile esprimere la formula per la probabilità di raggiungere una scoperta scientifica in forma quantistica. La formula potrebbe essere la seguente:
 
-P = |a * T^b * C^c|^2
+### P = |a * T^b * C^c|^2
 
-Non sono un matematico e pretanto sto inseguendo anche gli studi in materia mi è sembrato che il modulo venga utilizzato in matematica per rappresentare l'ampiezza o la lunghezza di un vettore. In questo caso, il modulo viene utilizzato per rappresentare il valore assoluto del prodotto interno tra il livello di trasparenza, il livello di partecipazione e il livello di collaborazione. Il valore assoluto è una funzione che prende un numero reale e restituisce il suo valore assoluto, che è la distanza dal numero allo zero. In questo caso, il valore assoluto viene utilizzato per garantire che la probabilità sia sempre un numero compreso tra 0 e 1.
+Non sono un matematico e pertanto sto inseguendo anche gli studi in materia mi è sembrato che il modulo venga utilizzato in matematica per rappresentare l'ampiezza o la lunghezza di un vettore. In questo caso, il modulo viene utilizzato per rappresentare il valore assoluto del prodotto interno tra il livello di trasparenza, il livello di partecipazione e il livello di collaborazione. Il valore assoluto è una funzione che prende un numero reale e restituisce il suo valore assoluto, che è la distanza dal numero allo zero. In questo caso, il valore assoluto viene utilizzato per garantire che la probabilità sia sempre un numero compreso tra 0 e 1.
 
 il prodotto interno, che è un operatore quantistico misurerebbe il grado di sovrapposizione tra due stati quantistici. Il quadrato del modulo rappresenta la probabilità che un evento si verifichi.
 
