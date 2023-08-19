@@ -192,7 +192,27 @@ P(A|B) = |a * (Sd + Su + Sc) * T^b * C^c|^2 * e^ (-k * I) * P(A) / P(B)
 
 La nuova formula ci permette di aggiornare la nostra convinzione sulla probabilità che la scoperta sbloccante si verifichi, a seguito della scoperta generale.
 
+La scienza della complessità è un campo interdisciplinare che coinvolge molte discipline, tra cui fisica, matematica, biologia, chimica, ingegneria, economia, informatica, scienze sociali e filosofia. Pertanto, non esiste una facoltà universitaria specifica che si occupi esclusivamente di questo campo. Tuttavia, ci sono molte facoltà che offrono corsi e programmi di studio sulla scienza della complessità, tra cui:
 
+Fisica
+Matematica
+Biologia
+Chimica
+Ingegneria
+Economia
+Informatica
+Scienze sociali
+Filosofia
+
+Inoltre, ci sono molte istituzioni di ricerca che si occupano di scienza della complessità, tra cui:
+
+Il Santa Fe Institute
+Il Complex Systems Center
+Il Center for Complexity and Collective Behavior
+Il Center for the Study of Complex Systems
+Il Center for the Study of Dynamical Systems
+
+...
 
 
 ## Esecuzione dei test e fase di sperimentazione
@@ -208,21 +228,10 @@ Definire test codificando gli stili
 Partecipazione all'Open-Source Science Initiative (OSSI).
 
 
-
-## Contribuire
-...
-
-
-
-## Autori
-
-* **Billie Thompson** - *Lavoro iniziale* - [PurpleBooth](https://github.com/PurpleBooth)
-
-Vedi anche l'elenco dei [collaboratori](https://github.com/your/project/contributors) che hanno partecipato a questo progetto.
-
 ## Licenza
 
 Questo progetto è concesso in licenza con licenza MIT - vedere il file [LICENSE.md](LICENSE.md) per i dettagli
+
 
 ## Ringraziamenti
 
