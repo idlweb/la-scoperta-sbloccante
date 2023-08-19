@@ -240,3 +240,5 @@ Questo progetto è concesso in licenza con licenza MIT - vedere il file [LICENSE
 * Suggerimento di cappello a chiunque il cui codice è stato utilizzato
 * Ispirazione
 * eccetera
+
+![Year of Open Science FINAL_Medium_20x10](https://github.com/idlweb/la-scoperta-sbloccante/assets/3739776/d85bc242-b41c-4ff7-89da-6a0b02380c26)
