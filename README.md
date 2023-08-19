@@ -20,8 +20,10 @@ Un approccio aperto alla complessità :-)
 
 Il titolo suona ambizioso ma l'intento è invece propiziatorio. 
 
-Gli studi legati alla teoria della complessità hanno condotto ad approfondire il paradigma ##Trasparenza-Collaborazione-Partecipazione come catalizzatore dei processi evolutivi della nostra cara umanità.
-Partendo da studi umanistici si è orientato a racconti scientifici, cito il #"Il #Grandangolo #scienza" - Le grandi opere - del Corriere della Sera. 
+Gli studi legati alla teoria della complessità hanno condotto ad approfondire il paradigma Trasparenza-Collaborazione-Partecipazione come catalizzatore dei processi evolutivi della nostra cara umanità.
+Partendo da studi umanistici si è orientato a racconti scientifici, cito il "Il #Grandangolo #scienza" - Le grandi opere - del Corriere della Sera.
+Tutto principia dagli studi di giurisprudenza e dagli interessi per il Diritto Amministrativo i quali "fisiologicamente" aprono le porte al mondo delle comunità open-data ed open-source. La lettura del "White House Open Government Initiative: Transparency, Participation, and Collaboration", il libro bianco (2010) sulle esperienze governative negli United States "obbligatorio"; dalla lettura del documento all'impegno personale il passo è stato breve, da allora ogni sforzo è teso a persuadere le PPAA (Pubbliche Amministrazioni) sulla necessità, in primo luogo di rievocare a se il ruolo strategico dell'ICT ed in seconda istanza di non trascurare/ignorare il lavoro egregio di AGID e di perseguire tutto il lavoro programmatico e legislativo che ne sta conseguendo.
+
 Le reazioni chimiche e la loro cinetica sono spesso descritte mediante equazioni differenziali ordinarie o parziali, ei catalizzatori sono inclusi in queste equazioni come fattori che modificano la velocità della reazione. I parametri che rappresentano l'effetto di un catalizzatore potrebbero dipendere da varie variabili, come la concentrazione del catalizzatore stesso, la temperatura, la pressione e altre condizioni reattive.
 
 Sebbene un catalizzatore non sia rappresentato direttamente come un vettore, i concetti matematici e le equazioni utilizzate per descrivere i suoi effetti possono coinvolgere vettori e matrici nel contesto di sistemi più complessi. Tuttavia, il concetto di catalizzatore in sé è più strettamente legato alla chimica e alla cinetica delle reazioni piuttosto che a rappresentazioni matematiche basate su vettori.
