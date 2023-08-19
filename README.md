@@ -86,7 +86,8 @@ Sc è la sommatoria delle scoperte complementari
 
 La formula quantistica per la probabilità di raggiungere una scoperta scientifica suggerisce che le scoperte direttamente incidenti al raggiungimento della scoperta, le scoperte non direttamente incidenti ma utili e le scoperte complementari non sono solo fattori importanti per aumentare la probabilità di successo, ma possono anche portare a risultati imprevisti e rivoluzionari.
 
-Pensando agli utilizzi pratici ho pensato di esplicitare un indice:
+Pensando agli utilizzi pratici ho pensato di esplicitare un indice
+
 L'indice di rallentamento legato all'interazione con un certo grado di "falsificazione" che la conoscenza incontra quando si muove in un determinato campo può essere calcolato come segue:
 
 ### I = |a * Sd + b * Su + c * Sc|^2 / |a|^2
