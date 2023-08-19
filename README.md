@@ -20,7 +20,7 @@ Un approccio aperto alla complessità :-)
 
 Il titolo suona ambizioso ma l'intento è invece propiziatorio. 
 
-Gli studi legati alla teoria della complessità mi hanno condotto ad approfondire il paradigma #Trasparenza-Collaborazione-Partecipazione come catalizzatore dei processi evolutivi della nostra cara umanità.
+Gli studi legati alla teoria della complessità hanno condotto ad approfondire il paradigma ##Trasparenza-Collaborazione-Partecipazione come catalizzatore dei processi evolutivi della nostra cara umanità.
 Partendo da studi umanistici si è orientato a racconti scientifici, cito il #"Il #Grandangolo #scienza" - Le grandi opere - del Corriere della Sera. 
 Le reazioni chimiche e la loro cinetica sono spesso descritte mediante equazioni differenziali ordinarie o parziali, ei catalizzatori sono inclusi in queste equazioni come fattori che modificano la velocità della reazione. I parametri che rappresentano l'effetto di un catalizzatore potrebbero dipendere da varie variabili, come la concentrazione del catalizzatore stesso, la temperatura, la pressione e altre condizioni reattive.
 
