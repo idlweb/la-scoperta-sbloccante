@@ -70,7 +70,7 @@ In termini più semplici, la formula dice che la probabilità di raggiungere una
 
 La formula quantistica potrebbe fornire una visione più accurata della natura della probabilità rispetto alla formula classica. Nella formula classica, la probabilità è un numero compreso tra 0 e 1, che rappresenta la possibilità che un evento si verifichi. Nella formula quantistica, la probabilità è rappresentata da un vettore, che può avere più di un componente. Questo perché nella meccanica quantistica, gli eventi non sono deterministici, ma sono soggetti a una certa incertezza.
  
-Ad un certo punto mi sono chiesto come avrei potuto riscrivere la formula se al posto di <a>, di <b>, e di <c>, considerassimo da una parte la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta, dall'altra la sommatoria delle scoperte non direttamente incidenti ma utili e <c> la sommatoria delle scoperte complementari, un complemento residuale, come la materia oscura. L'idea di fondo è ottenere un valore, per ora scalare, che rappresenti l'indice di rallentamento legato all'interazione con un certo grado di "falsificazione" che la conoscenza incontra quando si muove in un determinato campo, un po' come è espresso nella teoria i Higgs ed ai rallentamenti che hanno causato la differenziazione degli atomi. 
+Ad un certo punto mi sono chiesto come avrei potuto riscrivere la formula se al posto di a, di b, e di c, considerassimo da una parte la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta, dall'altra la sommatoria delle scoperte non direttamente incidenti ma utili e c la sommatoria delle scoperte complementari, un complemento residuale, come la materia oscura. L'idea di fondo è ottenere un valore, per ora scalare, che rappresenti l'indice di rallentamento legato all'interazione con un certo grado di "falsificazione" che la conoscenza incontra quando si muove in un determinato campo, un po' come è espresso nella teoria i Higgs ed ai rallentamenti che hanno causato la differenziazione degli atomi. 
 
 La formula sarebbe potuta essere riscritta come segue:
 
@@ -78,14 +78,30 @@ La formula sarebbe potuta essere riscritta come segue:
 
 dove:
 
-<p> è la probabilità di raggiungere una scoperta scientifica
-<a>, <b> e <c> sono coefficienti che devono essere determinati empiricamente
-<Sd> è la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta
-<Su> è la sommatoria delle scoperte non direttamente incidenti ma utili
-<Sc> è la sommatoria delle scoperte complementari
+p è la probabilità di raggiungere una scoperta scientifica
+a, b e c sono coefficienti che devono essere determinati empiricamente
+Sd è la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta
+Su è la sommatoria delle scoperte non direttamente incidenti ma utili
+Sc è la sommatoria delle scoperte complementari
 
 La formula quantistica per la probabilità di raggiungere una scoperta scientifica suggerisce che le scoperte direttamente incidenti al raggiungimento della scoperta, le scoperte non direttamente incidenti ma utili e le scoperte complementari non sono solo fattori importanti per aumentare la probabilità di successo, ma possono anche portare a risultati imprevisti e rivoluzionari.
 
+Pensando agli utilizzi pratici ho pensato di esplicitare un indice:
+L'indice di rallentamento legato all'interazione con un certo grado di "falsificazione" che la conoscenza incontra quando si muove in un determinato campo può essere calcolato come segue:
+
+### I = |a * Sd + b * Su + c * Sc|^2 / |a|^2
+
+dove:
+
+I è l'indice di rallentamento
+a, b e c sono coefficienti che devono essere determinati empiricamente
+Sd è la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta
+Su è la sommatoria delle scoperte non direttamente incidenti ma utili
+Sc è la sommatoria delle scoperte complementari
+
+L'indice di rallentamento è un numero compreso tra 0 e 1. Un indice di rallentamento maggiore di 1 significa che la conoscenza si muove più lentamente in un determinato campo. Un indice di rallentamento inferiore a 1 significa che la conoscenza si muove più velocemente in un determinato campo.
+
+L'indice di rallentamento può essere utilizzato per confrontare la velocità di avanzamento della conoscenza in diversi campi. Può anche essere utilizzato per identificare i campi in cui la conoscenza si muove più lentamente e per cercare di capire perché.
 
 
 ## Esecuzione dei test e fase di sperimentazione
