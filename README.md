@@ -141,6 +141,58 @@ C è il livello di partecipazione
 I è l'indice di rallentamento
 
 
+### CRITICHE:
+La formula si basa sull'assunto che la probabilità di raggiungere una scoperta scientifica è proporzionale al quadrato del prodotto delle probabilità delle scoperte direttamente incidenti al raggiungimento della scoperta, non direttamente incidenti ma utili, complementari, del livello di trasparenza, del livello di partecipazione e dell'indice di rallentamento. Tuttavia, questo assunto potrebbe non essere sempre valido. Ad esempio, se un gruppo di ricercatori sta lavorando su una nuova scoperta scientifica che richiede una conoscenza specialistica molto specifica, la loro probabilità di successo potrebbe non essere significativamente influenzata dal livello di trasparenza o di partecipazione.
+La formula non tiene conto di altri fattori che potrebbero influenzare la probabilità di raggiungere una scoperta scientifica, come la disponibilità di risorse, il livello di motivazione dei ricercatori e la fortuna.
+La formula è molto complessa e potrebbe essere difficile da applicare nella pratica.
+In conclusione, la formula P = a^2 * (Sd + Su + Sc)^2 * T^b * C^c * e^(-k * I) è un modello matematico interessante, ma è importante essere consapevoli dei suoi limiti.
+
+### Riferimenti 
+
+La legge dei grandi numeri, che afferma che la media di una grande quantità di risultati di un esperimento si avvicina alla probabilità dell'evento sperimentato man mano che la quantità di risultati aumenta.
+
+Il teorema del limite centrale, che afferma che la distribuzione della somma di un numero di variabili casuali indipendenti si avvicina alla distribuzione normale man mano che il numero di variabili aumenta.
+
+Il teorema della convergenza di Kolmogorov, che afferma che la distribuzione di una sequenza di funzioni di probabilità converge alla distribuzione di una funzione di probabilità se la distanza tra le due distribuzioni diminuisce al diminuire della dimensione del campione.
+Queste formule possono essere utilizzate per comprendere la natura della probabilità e per calcolare la probabilità di eventi complessi.
+
+## Un riferimento molto importante è la formula di Bayes, che è una formula matematica che consente di calcolare la probabilità di un evento, a partire dalla probabilità di un altro evento e dalla relazione tra i due eventi. La formula di Bayes può essere utilizzata per calcolare la probabilità di una scoperta scientifica, a partire dalla probabilità delle scoperte direttamente incidenti, non direttamente incidenti ma utili e complementari, e dalla relazione tra questi eventi.
+
+Un'altra formula pertinente è la formula del prodotto interno, che è una formula matematica che consente di calcolare il prodotto interno tra due vettori. Il prodotto interno è un'operazione matematica che misura la somiglianza tra due vettori. La formula del prodotto interno può essere utilizzata per calcolare la somiglianza tra le scoperte direttamente incidenti, non direttamente incidenti ma utili e complementari.
+
+Queste formule potrebbero essere utili per comprendere la natura della probabilità di raggiungere una scoperta scientifica.
+
+
+### EVOLUZIONE basati sugli studi di Bayes:
+
+potremmo evolvere la nostra formula, P = |a * (Sd + Su + Sc) * T^b * C^c|^2 * e^(-k * I), inglobando la formula di Bayes; facendo praticamente derivare la probabilità che otteniamo della nostra formula, sul raggiungimento di una scoperta, che chiameremo sbloccante (o altrimenti bloccante, nel senso che senza di essa non si può andare avanti); ciò che nella formula di Bayes rappresenta la relazione fra i due eventi, sarà, nel  nostro caso l'evento più direttamente incedente alla scoperta
+
+Certo, possiamo evolvere la nostra formula, P = |a * (Sd + Su + Sc) * T^b * C^c|^2 * e^(-k * I), inglobando la formula di Bayes.
+
+La formula di Bayes è una formula matematica che viene utilizzata per aggiornare le nostre convinzioni su un evento, a seguito di nuove informazioni. La formula è:
+
+# P(A|B) = P(B|A) * P(A) / P(B)
+
+dove:
+
+P(A|B) è la probabilità di A dato B
+P(B|A) è la probabilità di B dato A
+P(A) è la probabilità a priori di A
+P(B) è la probabilità a priori di B
+
+Nel nostro caso, A è la scoperta sbloccante e B è la scoperta generale. La probabilità a priori di A è la probabilità che la scoperta sbloccante si verifichi senza considerare la scoperta generale. La probabilità a priori di B è la probabilità che la scoperta generale si verifichi senza considerare la scoperta sbloccante. La probabilità di B dato A è la probabilità che la scoperta generale si verifichi se la scoperta sbloccante si verifica.
+
+Possiamo utilizzare la formula di Bayes per aggiornare la nostra convinzione sulla probabilità che la scoperta sbloccante si verifichi, a seguito della scoperta generale. La nuova probabilità, P(A|B), è data dalla seguente formula:
+
+P(A|B) = P(B|A) * P(A) / P(B)
+
+Possiamo sostituire i valori nella formula con i valori della nostra formula originale. La nuova formula è:
+
+P(A|B) = |a * (Sd + Su + Sc) * T^b * C^c|^2 * e^ (-k * I) * P(A) / P(B)
+
+La nuova formula ci permette di aggiornare la nostra convinzione sulla probabilità che la scoperta sbloccante si verifichi, a seguito della scoperta generale.
+
+
 
 
 ## Esecuzione dei test e fase di sperimentazione
