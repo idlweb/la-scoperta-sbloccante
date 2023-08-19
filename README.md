@@ -2,9 +2,9 @@
 “La scoperta sbloccante”, un nuovo paradigma per la ricerca scientifica. La probabilità di raggiungere una scoperta “sbloccante” a seguito di una scoperta generale.
 
 
-## x Iniziare, l'approccio/intuizione
+## per Iniziare, l'approccio/intuizione
 
-È possibile ricavare una formula legata alla probabilità di raggiungere una scoperta scientifica che sia dipendente dalle variabili: trasparenza, partecipazione e collaborazione in un campo rappresentato dalle piattaforme di sviluppo condiviso come Github?
+È possibile ricavare una formula legata alla probabilità di raggiungere una scoperta scientifica che sia dipendente dalle variabili trasparenza, partecipazione e collaborazione in un campo rappresentato dalle piattaforme di sviluppo condiviso come Github?
 
 Credo sia possibile ricavare una formula legata alla probabilità di raggiungere una scoperta scientifica che sia dipendente dalle variabili trasparenza, partecipazione e collaborazione in un campo rappresentato dalle piattaforme di sviluppo condiviso 
 
@@ -21,8 +21,9 @@ Un approccio aperto alla complessità :-)
 Il titolo suona ambizioso ma l'intento è invece propiziatorio. 
 
 Gli studi legati alla teoria della complessità hanno condotto ad approfondire il paradigma Trasparenza-Collaborazione-Partecipazione come catalizzatore dei processi evolutivi della nostra cara umanità.
-Partendo da studi umanistici si è orientato a racconti scientifici, cito il "Il #Grandangolo #scienza" - Le grandi opere - del Corriere della Sera.
-Tutto principia dagli studi di giurisprudenza e dagli interessi per il Diritto Amministrativo i quali "fisiologicamente" aprono le porte al mondo delle comunità open-data ed open-source. La lettura del "White House Open Government Initiative: Transparency, Participation, and Collaboration", il libro bianco (2010) sulle esperienze governative negli United States "obbligatorio"; dalla lettura del documento all'impegno personale il passo è stato breve, da allora ogni sforzo è teso a persuadere le PPAA (Pubbliche Amministrazioni) sulla necessità, in primo luogo di rievocare a se il ruolo strategico dell'ICT ed in seconda istanza di non trascurare/ignorare il lavoro egregio di AGID e di perseguire tutto il lavoro programmatico e legislativo che ne sta conseguendo.
+Partendo da studi umanistici si è orientato a racconti scientifici, cito il "Il Grandangolo #scienza" - Le grandi opere - del Corriere della Sera.
+
+Tutto principia dagli studi di giurisprudenza e dagli interessi per il Diritto Amministrativo i quali "fisiologicamente" aprono le porte al mondo delle comunità open-data ed open-source. La lettura del "White House Open Government Initiative: Transparency, Participation, and Collaboration", la lettura del libro bianco (2010) sulle esperienze governative negli United States "obbligatorio"; dalla lettura all'impegno personale il passo è stato breve, da allora ogni sforzo è teso a persuadere le PPAA (Pubbliche Amministrazioni) alla necessità, in primo luogo di rievocare a se il ruolo strategico dell'ICT ed in seconda istanza di non trascurare/ignorare il movimento mondiale in fermernto ed il lavoro egregio di AGID e conseguentemente perseguire il lavoro programmatico e legislativo che ne sta conseguendo.
 
 Le reazioni chimiche e la loro cinetica sono spesso descritte mediante equazioni differenziali ordinarie o parziali, ei catalizzatori sono inclusi in queste equazioni come fattori che modificano la velocità della reazione. I parametri che rappresentano l'effetto di un catalizzatore potrebbero dipendere da varie variabili, come la concentrazione del catalizzatore stesso, la temperatura, la pressione e altre condizioni reattive.
 
