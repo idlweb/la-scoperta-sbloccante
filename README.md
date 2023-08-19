@@ -104,6 +104,44 @@ L'indice di rallentamento è un numero compreso tra 0 e 1. Un indice di rallenta
 
 L'indice di rallentamento può essere utilizzato per confrontare la velocità di avanzamento della conoscenza in diversi campi. Può anche essere utilizzato per identificare i campi in cui la conoscenza si muove più lentamente e per cercare di capire perché.
 
+## possiamo inserire un effetto esponenziale nella formula. La formula con l'effetto esponenziale:
+
+## P = a^2 * (Sd + Su + Sc)^2 * T^b * C^c * e^(-k * I)
+
+dove:
+
+P è la probabilità di raggiungere una scoperta scientifica
+a, b, c e k sono coefficienti che devono essere determinati empiricamente
+T è il livello di trasparenza
+C è il livello di partecipazione
+Sd è la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta
+Su è la sommatoria delle scoperte non direttamente incidenti ma utili
+Sc è la sommatoria delle scoperte complementari
+I è l'indice di rallentamento
+
+## Il coefficiente k è una costante che misura l'effetto dell'indice di rallentamento sulla probabilità di raggiungere una scoperta scientifica. Il coefficiente k è positivo, il che significa che l'indice di rallentamento ha un effetto negativo sulla probabilità di raggiungere una scoperta scientifica.
+
+La formula con l'effetto esponenziale suggerisce che la probabilità di raggiungere una scoperta scientifica diminuisce all'aumentare dell'indice di rallentamento. Questo perché l'indice di rallentamento rende più difficile per le persone collaborare, condividere informazioni e partecipare al processo di ricerca.
+
+Tuttavia, la probabilità di raggiungere una scoperta scientifica può essere aumentata aumentando il livello di trasparenza, la collaborazione, la partecipazione e la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta, non direttamente incidenti ma utili e complementari.
+
+la formula espressa in forma quantistica:
+
+P = |a * (Sd + Su + Sc) * T^b * C^c|^2 * e^(-k * I)
+
+dove:
+
+P è la probabilità di raggiungere una scoperta scientifica
+a è un coefficiente che deve essere determinato empiricamente
+Sd è la sommatoria delle scoperte direttamente incidenti al raggiungimento della scoperta
+Su è la sommatoria delle scoperte non direttamente incidenti ma utili
+Sc è la sommatoria delle scoperte complementari
+T è il livello di trasparenza
+C è il livello di partecipazione
+I è l'indice di rallentamento
+
+
+
 
 ## Esecuzione dei test e fase di sperimentazione
 Il passaggio successivo è quello di 
