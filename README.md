@@ -11,11 +11,8 @@ Credo sia possibile ricavare una formula legata alla probabilità di raggiungere
 
 ### Prerequisiti
 
-Di cosa hai bisogno per installare il software e come installarli
-
-```
-Dare esempi
-```
+Di cosa hai bisogno per proseguire il percorso?
+Un approccio aperto alla complessità :-)
 
 ### La formula
 
