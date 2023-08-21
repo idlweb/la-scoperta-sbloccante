@@ -129,7 +129,7 @@ Tuttavia, la probabilità di raggiungere una scoperta scientifica può essere au
 
 la formula espressa in forma quantistica:
 
-P = |a * (Sd + Su + Sc) * T^b * C^c|^2 * e^(-k * I)
+## P = |a * (Sd + Su + Sc) * T^b * C^c|^2 * e^(-k * I)
 
 dove:
 
