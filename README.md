@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/680435781.svg)](https://zenodo.org/badge/latestdoi/680435781)
 
-# la-scoperta-sbloccante
+# la scoperta sbloccante
 “La scoperta sbloccante”, un nuovo paradigma per la ricerca scientifica. La probabilità di raggiungere una scoperta “sbloccante” a seguito di una scoperta generale.
 
 
