@@ -4,7 +4,7 @@
 “La scoperta sbloccante”, un nuovo paradigma per la ricerca scientifica. La probabilità di raggiungere una scoperta “sbloccante” a seguito di una scoperta generale.
 
 
-## per Iniziare, l'approccio/intuizione
+## per iniziare, l'approccio/intuizione
 
 È possibile ricavare una formula legata alla probabilità di raggiungere una scoperta scientifica che sia dipendente dalle variabili trasparenza, partecipazione e collaborazione in un campo rappresentato dalle piattaforme di sviluppo condiviso come Github?
 
