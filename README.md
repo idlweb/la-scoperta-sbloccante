@@ -165,7 +165,7 @@ Un'altra formula pertinente è la formula del prodotto interno, che è una formu
 Queste formule potrebbero essere utili per comprendere la natura della probabilità di raggiungere una scoperta scientifica.
 
 
-### EVOLUZIONE basati sugli studi di Bayes:
+### EVOLUZIONE basata sugli studi di Bayes:
 
 potremmo evolvere la nostra formula, P = |a * (Sd + Su + Sc) * T^b * C^c|^2 * e^(-k * I), inglobando la formula di Bayes; facendo praticamente derivare la probabilità che otteniamo della nostra formula, sul raggiungimento di una scoperta, che chiameremo sbloccante (o altrimenti bloccante, nel senso che senza di essa non si può andare avanti); ciò che nella formula di Bayes rappresenta la relazione fra i due eventi, sarà, nel  nostro caso l'evento più direttamente incedente alla scoperta
 
